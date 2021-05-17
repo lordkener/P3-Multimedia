@@ -90,7 +90,7 @@ input, select, textarea {
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
-		background-image: linear-gradient(top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
+		background-image: linear-gradient(to top, rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0)), url("images/bg01.png");
 		background-color: #f7f7f7;
 		background-position: top left, top left;
 		background-repeat: repeat-x, repeat;
@@ -1848,7 +1848,6 @@ iframe.video {
 			display: inline-block;
 			font-style: normal;
 			font-variant: normal;
-			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
@@ -2382,7 +2381,6 @@ iframe.video {
 						display: inline-block;
 						font-style: normal;
 						font-variant: normal;
-						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
 						font-family: 'Font Awesome 5 Free';
