@@ -1959,14 +1959,14 @@ iframe.video {
 		display: inline-block;
 	}
 
-		#logo h1 {
+		#logo h2 {
 			background: rgb(0, 0, 0);
 			color: #fff;
 			border-radius: 6px;
 			font-family: 'Oleo Script', serif;
 			font-weight: 400;
 			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: 3em;
+			font-size: 2.2em;
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
