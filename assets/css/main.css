@@ -1977,6 +1977,8 @@ iframe.video {
 			display: inline-block;
 			vertical-align: middle;
 			width: 8em;
+			max-width: 100%; 
+			height: auto;
 		}
 
 /* Nav */
